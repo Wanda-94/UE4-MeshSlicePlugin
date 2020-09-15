@@ -1,2 +1,4 @@
-Content/Mesh
-Content/Material
+Content/
+Binaries/
+Intermediate/
+Resources/
